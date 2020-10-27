@@ -30,19 +30,22 @@ Efetue um cadastro de usuário utilizando BDD. É necessário conter no mínimo 
 
 ### Requisitos Desejáveis
 * Arquivo contendo massa de dados
-* Gerados de dados fake (construídos por você mesmo ou utilizando algum framework pré existente)
+* Gerador de dados fake (construídos por você mesmo ou utilizando algum framework pré existente)
 * Page object e componentização
-* Incluir na arquitetura do projeto soluões para integração da automação num servidor CI/CD (Jenkins, Gitlab CI, TeamCity e etc...)
+* Incluir na arquitetura do projeto soluções para integração da automação num servidor CI/CD (Jenkins, Gitlab CI, TeamCity e etc...)
 
 ### Você pode
-* Utilizar as seguites linguagens de programação (Ruby, Java ou Python)
+* Utilizar as seguites linguagens de programação:
+  * Ruby
+  * Java
+  * Python
 
 ### O que gostaríamos de ver
 * Uma arquitetura consistente, focada na simplicidade do projeto (**keep it simple!**)
 * Apenas testes funcionais, não estamos buscando variações de tipo de testes nesse desafio.
 
 ## Dica
-* Mesmo que não consiga finalizar 100% do projeto, pois avaliaremos mesmo assim.
+* Nos envie o projeto mesmo que não consiga finaliza-lo 100%, pois o avaliaremos mesmo assim.
 
 ## :rocket: Entrega
 Para enviar seu código, você pode:
